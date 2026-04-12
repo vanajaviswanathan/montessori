@@ -126,7 +126,7 @@ p:last-child { margin-bottom: 0; }
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
-	background-color: #9a6600;
+	background-color: #ffb3b3;
 	color: white;
 	text-decoration: none;
 }

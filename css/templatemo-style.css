@@ -79,7 +79,8 @@ p:last-child { margin-bottom: 0; }
 }
 
 .navbar-container.sticky {
-	background-color: rgba(204, 153, 0, 0.9);
+	/*background-color: rgba(204, 153, 0, 0.9);*/
+	background-color: #990000;
 	position: fixed;
 	top: 0;
 	left: 0;
